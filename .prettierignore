@@ -1,0 +1,10 @@
+build/
+node_modules/
+src/types/
+.DS_STORE
+yarn-error.log
+.env
+.env.example
+scratch
+node_modules/
+*.yaml
